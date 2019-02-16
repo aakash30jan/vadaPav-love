@@ -1,5 +1,5 @@
 # Vada+Pav Love
-<img height=20px width=20px src='./vadaPav-love.png'> ≠ :hamburger: <br>
+<img height=15px width=20px src='./vadaPav-love.png'> ≠ :hamburger: <br>
 A trained model to distinguish if an image has a VadaPav or not !
 Thanks to the original work by [@NirajModi](https://github.com/nirajmodi19/14W_Technologies).
 
